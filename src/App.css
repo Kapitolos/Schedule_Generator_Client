@@ -347,44 +347,7 @@ color: white;
   margin-left: 5%;
 }
 
-#FireTom {
-  background-color: rgb(216, 15, 15);
-  width: 100px; /* Adjust size as needed */
-  height: 100px; /* Adjust size as needed */
-  border-radius: 50%;
-  border: solid; /* Remove default border */
-  border-color: black;
-  color: white; /* Adjust text color as needed */
-  font-size: 16px; /* Adjust font size as needed */
-  cursor: pointer; /* Change cursor to pointer on hover */
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  padding: 0; /* Reset padding */
-  margin-top: -300px;
-  margin-left: -666px;
-  z-index: 100;
-}
 
-#FireTom:disabled {
-  background-color: grey; /* Optional: change color when button is disabled */
-}
-
-#FireTom:hover {
-  background-color: #ff0000; /* Lighter red on hover */
-}
-
-.gif-container img {
-  position: absolute; /* Positions the GIF absolutely relative to its positioned ancestor */
-  z-index: 1000; /* High z-index to ensure it overlaps other elements */
-  top: 50%; /* Adjust as needed */
-  left: 50%; /* Adjust as needed */
-  transform: translate(-50%, -50%); /* Centers the GIF */
-  border-style: solid;
-  border-width: 10px;
-  border-color: black;
-}
 
 
 /* Iphone 14 pro Max */
@@ -501,38 +464,7 @@ color: white;
   box-sizing: border-box;
   overflow-y: auto;
 }
-#FireTom {
-  background-color: rgb(216, 15, 15);
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  border: solid;
-  border-color: black;
-  color: white;
-  font-size: 16px;
-  cursor: pointer;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  padding: 0;
-  margin-left: -39px;
-  margin-top: 422px;
-  margin-left: 8px;
-  padding: 62px;
-  margin-bottom: 37px;
-}
 
-.gif-container img {
-  position: absolute; /* Positions the GIF absolutely relative to its positioned ancestor */
-  z-index: 1000; /* High z-index to ensure it overlaps other elements */
-  top: 150%; /* Adjust as needed */
-  left: 50%; /* Adjust as needed */
-  transform: translate(-50%, -50%); /* Centers the GIF */
-  border-style: solid;
-  border-width: 10px;
-  border-color: black;
-  width:90%;
-}
   
 .react-datepicker {
   margin-top: -11%;
@@ -668,37 +600,7 @@ color: white;
   box-sizing: border-box;
   overflow-y: auto;
 }
-#FireTom {
-  background-color: rgb(216, 15, 15);
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  border: solid;
-  border-color: black;
-  color: white;
-  font-size: 16px;
-  cursor: pointer;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  padding: 0;
-  margin-left: -39px;
-  margin-top: 422px;
-  margin-left: 8px;
-  padding: 62px;
-  margin-bottom: 37px;
-}
-.gif-container img {
-  position: absolute; /* Positions the GIF absolutely relative to its positioned ancestor */
-  z-index: 1000; /* High z-index to ensure it overlaps other elements */
-  top: 150%; /* Adjust as needed */
-  left: 50%; /* Adjust as needed */
-  transform: translate(-50%, -50%); /* Centers the GIF */
-  border-style: solid;
-  border-width: 10px;
-  border-color: black;
-  width:90%;
-}
+
   
 .react-datepicker {
   margin-top: -11%;
@@ -841,37 +743,7 @@ color: white;
   box-sizing: border-box;
   overflow-y: auto;
 }
-#FireTom {
-  background-color: rgb(216, 15, 15);
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  border: solid;
-  border-color: black;
-  color: white;
-  font-size: 16px;
-  cursor: pointer;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  padding: 0;
-  margin-left: -39px;
-  margin-top: 422px;
-  margin-left: 8px;
-  padding: 62px;
-  margin-bottom: 37px;
-}
-.gif-container img {
-  position: absolute; /* Positions the GIF absolutely relative to its positioned ancestor */
-  z-index: 1000; /* High z-index to ensure it overlaps other elements */
-  top: 150%; /* Adjust as needed */
-  left: 50%; /* Adjust as needed */
-  transform: translate(-50%, -50%); /* Centers the GIF */
-  border-style: solid;
-  border-width: 10px;
-  border-color: black;
-  width:90%;
-}
+
 .react-datepicker {
   margin-top: 1%;
   margin-left: -5%;
@@ -1026,37 +898,7 @@ color: white;
   box-sizing: border-box;
   overflow-y: auto;
 }
-#FireTom {
-  background-color: rgb(216, 15, 15);
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  border: solid;
-  border-color: black;
-  color: white;
-  font-size: 16px;
-  cursor: pointer;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  padding: 0;
-  margin-left: -39px;
-  margin-top: 422px;
-  margin-left: 8px;
-  padding: 62px;
-  margin-bottom: 37px;
-}
-.gif-container img {
-  position: absolute; /* Positions the GIF absolutely relative to its positioned ancestor */
-  z-index: 1000; /* High z-index to ensure it overlaps other elements */
-  top: 150%; /* Adjust as needed */
-  left: 50%; /* Adjust as needed */
-  transform: translate(-50%, -50%); /* Centers the GIF */
-  border-style: solid;
-  border-width: 10px;
-  border-color: black;
-  width:90%;
-}
+
   
   .react-datepicker {
     margin-top: 9%;

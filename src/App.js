@@ -3,7 +3,7 @@ import './App.css';
 import Navbar from './Navbar';
 import StaffList from './stafflist';
 import Schedule from './Schedule';
-import FireTom from './firetom';
+
 import { startOfWeek, endOfWeek, format, addDays, isWithinInterval } from 'date-fns';
 
 function App() {
@@ -42,7 +42,7 @@ const [staffData, setStaffData] = useState({});
                 staffData={staffData}
                 setStaffData={setStaffData}
                 />
-                <FireTom />
+
             </header>
         </div>
     );
